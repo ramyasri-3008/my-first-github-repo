@@ -1,2 +1,2 @@
 # my-first-github-repo
-Learning GitHub from scratch
+I am Learning GitHub from scratch step by step.
